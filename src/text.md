@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/IgorOstroverkhov/testcardtest/issues/1
+* [Выводит на экран остаток по счету вместо суммы перевода](https://github.com/IgorOstroverkhov/testcardtest/issues/1)
 
 ## Описание процесса тестирования
 
